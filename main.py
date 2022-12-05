@@ -14,6 +14,7 @@ def strength():
 
 print("⚔️  EPIC BATTLE ⚔️")
 print()
+
 #input 1st character - generate/display stats
 character1_name = input("Name your character: ")
 character1_type = input("Character Type (Human, Elf, Wizard, Orc): ")
